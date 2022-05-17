@@ -5,7 +5,7 @@ body{
 
 body::before{
     content: '';
-    background-image: url("../imagens/play.gif");
+    background-image: url("../imagens/positive.gif");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
