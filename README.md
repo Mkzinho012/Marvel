@@ -10,7 +10,7 @@ Uma página com personagens da marvel e uma lista de persoangens, onde ao passar
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## O que eu aprendi ?
-Aprendi sobre eventos de escuta JavaScript que ajudou ao identificar se o mouse passou, e se passou mudar a imagem do personagem e até os textos, e sobre vaiáveis CSS uma coisa que pesava não existir, mas existe, foi de grande ajuda para não precisar ficar constatando a paleta de cores sempre que precisa ver qual cor ser usada. 
+Aprendi sobre eventos de escuta JavaScript que ajudou ao identificar se o mouse passou, e se passou mudar a imagem do personagem e até os textos, e sobre variáveis CSS uma coisa que pesava não existir, mas existe, foi de grande ajuda para não precisar ficar constatando a paleta de cores sempre que precisa ver qual cor ser usada. 
 ## Prints
 
 ![marvel](https://user-images.githubusercontent.com/99095288/168880298-8cc38db9-8b7f-4e3b-8531-55b117967031.png)
