@@ -1,7 +1,7 @@
 
 # Marvel 
 
-Uma página com personagens da marvel e uma lista de persoangens, onde ao passar o mouse muda o personagem principal.
+Uma página com personagens da marvel e uma lista de persoangens, onde ao passar o mouse muda o personagem principal feito com os dev em dobro eu postarei minha versão logo de one piece.
 ## Linguagens usadas
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
